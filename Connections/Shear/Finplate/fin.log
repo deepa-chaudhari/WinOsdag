@@ -1,0 +1,14 @@
+<link rel="stylesheet" type="text/css" href="Connections/Shear/Finplate/log.css"/>
+
+    <div  class="LOG INFO">
+        <span class="DATE">Wed, 01 Jun 2016 12:30:53</span>
+        <span class="LEVEL">INFO</span>
+        <span class="MSG">: Overall finplate connection design is safe 
+</span>
+    </div>
+
+    <div  class="LOG DEBUG">
+        <span class="DATE">Wed, 01 Jun 2016 12:30:53</span>
+        <span class="LEVEL">DEBUG</span>
+        <span class="MSG"> :=========End Of design===========</span>
+    </div>

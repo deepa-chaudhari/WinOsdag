@@ -1,0 +1,40 @@
+<link rel="stylesheet" type="text/css" href="Connections/Shear/Endplate/log.css"/>
+
+    <div  class="LOG INFO">
+        <span class="DATE">Fri, 03 Jun 2016 10:37:56</span>
+        <span class="LEVEL">INFO</span>
+        <span class="MSG">: Overall endplate connection design is safe 
+</span>
+    </div>
+
+    <div  class="LOG DEBUG">
+        <span class="DATE">Fri, 03 Jun 2016 10:37:56</span>
+        <span class="LEVEL">DEBUG</span>
+        <span class="MSG"> :=========End Of design===========</span>
+    </div>
+
+    <div  class="LOG INFO">
+        <span class="DATE">Fri, 03 Jun 2016 10:37:56</span>
+        <span class="LEVEL">INFO</span>
+        <span class="MSG">: Overall endplate connection design is safe 
+</span>
+    </div>
+
+    <div  class="LOG DEBUG">
+        <span class="DATE">Fri, 03 Jun 2016 10:37:56</span>
+        <span class="LEVEL">DEBUG</span>
+        <span class="MSG"> :=========End Of design===========</span>
+    </div>
+
+    <div  class="LOG INFO">
+        <span class="DATE">Fri, 03 Jun 2016 10:38:48</span>
+        <span class="LEVEL">INFO</span>
+        <span class="MSG">: Overall endplate connection design is safe 
+</span>
+    </div>
+
+    <div  class="LOG DEBUG">
+        <span class="DATE">Fri, 03 Jun 2016 10:38:48</span>
+        <span class="LEVEL">DEBUG</span>
+        <span class="MSG"> :=========End Of design===========</span>
+    </div>

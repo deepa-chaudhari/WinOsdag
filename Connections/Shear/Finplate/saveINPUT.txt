@@ -1,0 +1,60 @@
+(dp0
+S'Member'
+p1
+(dp2
+S'ColumSection'
+p3
+S'ISSC 200'
+p4
+sS'fu (MPa)'
+p5
+I410
+sS'BeamSection'
+p6
+S'ISMB 400'
+p7
+sS'fy (MPa)'
+p8
+I250
+sS'Connectivity'
+p9
+S'Column web-Beam web'
+p10
+ssS'Plate'
+p11
+(dp12
+S'Width (mm)'
+p13
+I0
+sS'Height (mm)'
+p14
+I0
+sS'Thickness (mm)'
+p15
+I10
+ssS'Load'
+p16
+(dp17
+S'ShearForce (kN)'
+p18
+I100
+ssS'Weld'
+p19
+(dp20
+S'Size (mm)'
+p21
+I8
+ssS'Bolt'
+p22
+(dp23
+S'Grade'
+p24
+F3.6
+sS'Diameter (mm)'
+p25
+I20
+sS'Type'
+p26
+S'Black Bolt'
+p27
+ss.

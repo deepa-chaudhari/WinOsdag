@@ -1,0 +1,27 @@
+<link rel="stylesheet" type="text/css" href="Connections/Shear/cleatAngle/log.css"/>
+
+    <div  class="LOG INFO">
+        <span class="DATE">Wed, 01 Jun 2016 12:25:12</span>
+        <span class="LEVEL">INFO</span>
+        <span class="MSG">: Overall cleat Angle connection design is safe 
+</span>
+    </div>
+
+    <div  class="LOG DEBUG">
+        <span class="DATE">Wed, 01 Jun 2016 12:25:12</span>
+        <span class="LEVEL">DEBUG</span>
+        <span class="MSG"> :=========End Of design===========</span>
+    </div>
+
+    <div  class="LOG INFO">
+        <span class="DATE">Wed, 01 Jun 2016 12:25:12</span>
+        <span class="LEVEL">INFO</span>
+        <span class="MSG">: Overall cleat Angle connection design is safe 
+</span>
+    </div>
+
+    <div  class="LOG DEBUG">
+        <span class="DATE">Wed, 01 Jun 2016 12:25:12</span>
+        <span class="LEVEL">DEBUG</span>
+        <span class="MSG"> :=========End Of design===========</span>
+    </div>
